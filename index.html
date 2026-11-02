@@ -18,6 +18,7 @@
 <meta name="twitter:image" content="https://www.spartanscricketclub.us/assets/og-image.jpg">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "SportsTeam", "name": "Spartans Cricket Club", "alternateName": ["Spartans CC", "Spartans cc"], "sport": "Cricket", "url": "https://www.spartanscricketclub.us/", "logo": "https://www.spartanscricketclub.us/assets/icon-512.png", "image": "https://www.spartanscricketclub.us/assets/og-image.jpg", "description": "Five-time champions of the East Vale Premier League (Sands Cricket Association).", "memberOf": {"@type": "SportsOrganization", "name": "Sands Cricket Association"}, "sameAs": ["https://www.instagram.com/spartans_cricketclub", "https://cricclubs.com/SandsCricketAssociation/viewTeam.do?teamId=465&clubId=5917"], "location": {"@type": "Place", "name": "Harada Heritage Park", "address": {"@type": "PostalAddress", "streetAddress": "13099 65th St", "addressLocality": "Corona", "addressRegion": "CA", "postalCode": "92880", "addressCountry": "US"}}, "areaServed": "Eastvale, California"}</script>
 <link rel="canonical" href="https://www.spartanscricketclub.us/">
+<script>window.ASK_ENDPOINT='https://spartans-ask.harshagc180.workers.dev/';</script>
 <script>
 /* Cloudflare Web Analytics: paste your token between the quotes below, then save. Leave empty to turn off. */
 window.CF_WA_TOKEN='339ffd84acbe48c5b752883fb3e49145';
@@ -476,7 +477,7 @@ mark('AI insights updated. Save and publish to show them on the site.');admRende
 renderAC();
 // ===== Ask the Spartans (step 4) =====
 let askHist=[],askBusy=false;
-(async()=>{if(!window.claude?.use)return;const sm=await claude.use('sample');if(sm)$('#askBtn').hidden=false})();
+(async()=>{if(window.ASK_ENDPOINT&&!window.claude?.use){$('#askBtn').hidden=false;return}if(!window.claude?.use)return;const sm=await claude.use('sample');if(sm)$('#askBtn').hidden=false})();
 $('#askBtn').onclick=()=>{$('#askPanel').hidden=false;$('#askBtn').hidden=true;$('#askIn').focus()};
 $('#askX').onclick=()=>{$('#askPanel').hidden=true;$('#askBtn').hidden=false;$('#askBtn').focus()};
 $('#askSug').innerHTML=['Who’s our top scorer?','When’s the next match?','How did we do against Kings?'].map(q=>`<button class="chip">${q}</button>`).join('');
@@ -484,7 +485,7 @@ $('#askSug').onclick=e=>{if(e.target.tagName==='BUTTON')ask(e.target.textContent
 $('#askGo').onclick=()=>ask($('#askIn').value);$('#askIn').addEventListener('keydown',e=>{if(e.key==='Enter')ask($('#askIn').value)});
 function addMsg(t,who){const d=document.createElement('div');d.className='am '+who;d.textContent=t;$('#askLog').append(d);$('#askLog').scrollTop=1e9;return d}
 async function ask(q){q=(q||'').trim();if(!q||askBusy)return;$('#askIn').value='';addMsg(q,'me');const out=addMsg('Thinking…','bot');askBusy=true;
-try{const sm=await claude.use('sample');if(!sm)throw{code:'not_granted'};
+try{if(window.ASK_ENDPOINT&&!window.claude?.use){const res=await fetch(window.ASK_ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({messages:[...askHist.slice(-6),{role:'user',content:q.slice(0,500)}]})});const j=await res.json().catch(()=>({}));if(!res.ok||!j.text)throw{code:j.error||'http_'+res.status};out.textContent=j.text;askHist.push({role:'user',content:q},{role:'assistant',content:j.text});return}const sm=await claude.use('sample');if(!sm)throw{code:'not_granted'};
 const base=[{role:'user',content:`You are the "Ask the Spartans" assistant on the Spartans Cricket Club website. Answer ONLY from the site data below. If the answer is not in the data, say the site doesn't have that information. Keep answers short (1 to 3 sentences), friendly and factual. Use plain text with no markdown.\n\nSITE DATA:\n${facts()}`},{role:'assistant',content:'Understood. I will answer only from the site data.'}];
 const r=await sm([...base,...askHist.slice(-6),{role:'user',content:q}],{modelTier:'quick',cache:false,onText:({text})=>{out.textContent=text;$('#askLog').scrollTop=1e9}});
 out.textContent=r.text;askHist.push({role:'user',content:q},{role:'assistant',content:r.text})}
