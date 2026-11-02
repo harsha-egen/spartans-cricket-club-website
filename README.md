@@ -2,7 +2,7 @@
 
 Live site: **https://www.spartanscricketclub.us**
 
-Official website of Spartans Cricket Club, Eastvale, California: five-time champions of the East Vale Premier League (Sands Cricket Association), with a title hat-trick in Summer 2025, Winter 2025 and Summer 2026.
+Official website of Spartans Cricket Club, Eastvale, California: five-time champions of the East Vale Premier League (Sands Cricket Association), with a title hat-trick in EPL – Div 1 (1.0) [2024–25], EPL – Div 1 (2.0) [2025] and EPL – Div 1 (3.0) [2025–26].
 
 This repository holds the **public, static copy** of the site, served by GitHub Pages. The editable master copy lives on claude.ai (see [Architecture](#architecture)).
 
@@ -73,7 +73,7 @@ No build step, framework or package manager is used. Everything is plain HTML, C
 
 ## Front end
 
-- **Single-page app with hash routing.** Tabs are sections of one page (`#home`, `#news`, `#tv`, `#team`, `#fixtures`, `#archive`, `#club`, `#sponsors`, `#about`, `#contact`). Switching tabs never reloads the page.
+- **Single-page app with hash routing.** Tabs are sections of one page (`#home`, `#news`, `#tv`, `#team`, `#fixtures`, `#archive`, `#gallery`, `#club`, `#sponsors`, `#about`, `#contact`). Switching tabs never reloads the page.
 - **Styling.** CSS custom properties for colours (navy, gold, silver), with light and dark themes that follow the visitor's device. Fonts: Saira Condensed and Barlow (Google Fonts).
 - **Main components:**
   - home slider (photos and video), rotating headline, countdown to the next match
@@ -82,7 +82,7 @@ No build step, framework or package manager is used. Everything is plain HTML, C
   - season archive with records, finals, highlights and full results
   - RCB-style squad grid with captain markers and player popups
   - Spartans TV (videos and photos in a full-screen viewer)
-  - Club life gallery with album filters
+  - Gallery (on-field photos) and Club life (off-field photos), both with album filters
   - sponsors, About us and the Ask the Spartans chat panel
 - **Accessibility.** Semantic headings, labelled controls, keyboard focus styles, reduced-motion support.
 
@@ -209,4 +209,4 @@ On claude.ai the same chat runs through the visitor's own Claude account instead
 - The fan poll and Join the squad form are display-only on the public site; storing votes and enquiries would need a small backend (for example Cloudflare D1 or a form service).
 - Archive seasons currently include results only (no per-player figures).
 
-**Ideas:** sponsorship tiers and media kit, supporter memberships, merchandise store link, league table, live match-day updates, newsletter signup, calendar subscription, more archive seasons (Summer 2025, 2022 titles).
+**Ideas:** sponsorship tiers and media kit, supporter memberships, merchandise store link, league table, live match-day updates, newsletter signup, calendar subscription, more archive seasons (EPL – Div 1 (1.0) [2024–25], 2022 titles).
