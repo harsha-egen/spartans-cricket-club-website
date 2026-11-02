@@ -120,6 +120,7 @@ details.arc-m{margin-top:16px;border-top:1px solid var(--line);padding-top:12px}
 #arcHt button{all:unset;cursor:pointer;border:1.5px solid var(--gold);border-radius:8px;padding:14px;text-align:center}#arcHt button:hover{background:rgba(242,185,31,.12)}#arcHt button:focus-visible{outline:3px solid var(--gold)}#arcHt b{display:block;font:800 30px 'Saira Condensed','Arial Narrow',sans-serif;color:var(--gold)}#arcHt span{color:#d3e0f2;text-transform:uppercase;letter-spacing:.08em;font-size:13px}
 @media(prefers-color-scheme:dark){.arc-rec b{color:var(--gold)}details.arc-m summary{color:var(--gold)}}
 @media(max-width:700px){.arc-rec{grid-template-columns:repeat(2,auto)}.arc{padding:16px}}
+.pv-doc{max-width:760px}.pv-doc h1{font-size:clamp(40px,6vw,64px);margin-bottom:6px}.pv-doc h2{font-size:28px;margin:28px 0 8px}.pv-doc p{margin:0 0 12px}
 .hero{background:var(--deep);color:#fff;overflow:hidden;position:relative}
 .hero::before{content:"";position:absolute;inset:0;background:linear-gradient(115deg,transparent 0 40%,rgba(13,74,143,.55) 40% 58%,transparent 58%),linear-gradient(65deg,transparent 0 62%,rgba(255,255,255,.05) 62% 70%,transparent 70%),linear-gradient(160deg,var(--navy),var(--deep) 60%)}
 .hero .wrap{position:relative;display:grid;grid-template-columns:1.2fr 1fr;gap:32px;align-items:center;min-height:520px}
@@ -227,6 +228,21 @@ footer .stars{margin:0 0 6px}
 
 <section class="page" id="p-archive"><div class="ab-hero"><div class="wrap"><p class="stars" style="margin:0 0 10px">★ ★ ★ ★ ★</p><h1>Season archive</h1><p class="ab-lead">Every result from the Spartans’ championship seasons since 2025 in the East Vale Premier League, from the first league game to the final.</p></div></div>
 <div class="wrap"><div class="ab-band" style="margin-top:0"><div class="tag" style="color:var(--gold)">The hat-trick</div><h2>Three titles in a row</h2><p>Summer League 2025, Winter League 2025 and Summer League 2026. Select a season below to relive it.</p><div class="ab-ht" id="arcHt"></div></div><div id="arcList"></div></div></section>
+<section class="page" id="p-privacy"><div class="wrap pv-doc"><h1>Privacy policy</h1><p class="sub">Last updated November 2, 2026</p>
+<p>This policy explains what information the Spartans Cricket Club website (www.spartanscricketclub.us) collects, how it is used and the choices you have.</p>
+<h2>Information we collect</h2>
+<p><b>Visitor statistics.</b> We use Cloudflare Web Analytics to count visits and see which pages are popular, which countries visitors come from and what devices they use. It does not use cookies and does not identify individual visitors.</p>
+<p><b>Ask the Spartans chat.</b> Questions typed into the chat are sent through our Cloudflare service to Anthropic’s Claude AI to produce an answer based on this website’s club information. We do not store chat conversations, and your IP address is used only briefly to limit how many questions can be asked per hour. Please don’t enter personal or sensitive information in the chat.</p>
+<p><b>Forms.</b> We do not collect names, emails or other personal details through this website. To join the club or contact us, message us on Instagram.</p>
+<h2>Advertising and cookies</h2>
+<p>This website may show advertising provided by Google AdSense. Third-party vendors, including Google, use cookies to serve ads based on a user’s prior visits to this website or other websites. Google’s use of advertising cookies enables it and its partners to serve ads to you based on your visits to this and other sites on the internet.</p>
+<p>You can opt out of personalized advertising by visiting <a href="https://adssettings.google.com" target="_blank" rel="noopener">Google Ads Settings</a>, or opt out of some third-party vendors’ use of cookies for personalized advertising at <a href="https://www.aboutads.info" target="_blank" rel="noopener">www.aboutads.info</a>. To learn more, see <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">how Google uses information from sites that use its services</a>.</p>
+<h2>Third-party services and links</h2>
+<p>This website is hosted on GitHub Pages and uses Cloudflare, Google Fonts and, for advertising, Google AdSense. These services may receive technical information such as your IP address and browser type when you visit. We also link to other websites, such as CricClubs, Instagram and our sponsors, which have their own privacy policies.</p>
+<h2>Children</h2>
+<p>This website is not directed at children under 13, and we do not knowingly collect personal information from children.</p>
+<h2>Changes and contact</h2>
+<p>We may update this policy from time to time; the date above shows the latest version. For questions about this policy, contact us on Instagram at <a href="https://www.instagram.com/spartans_cricketclub" target="_blank" rel="noopener">@spartans_cricketclub</a>.</p></div></section>
 <section class="page" id="p-club"><div class="wrap"><h2>Club life</h2><p class="sub">Off the field with the Spartans: team parties, barbecues and celebrations.</p><div class="chips" id="clc"></div><div class="clg" id="clg"></div></div></section>
 
 <section class="page" id="p-about"><div class="ab-hero"><div class="wrap"><p class="stars" style="margin:0 0 10px">★ ★ ★ ★ ★</p><h1>About the Spartans</h1><p class="ab-lead">Spartans Cricket Club is an Eastvale, California cricket club competing in the East Vale Premier League of the Sands Cricket Association. Five championships, a title hat-trick and a squad that plays for each other.</p></div></div>
@@ -250,7 +266,7 @@ footer .stars{margin:0 0 6px}
 <input id="cr" placeholder="Batter, bowler, all-rounder or keeper" aria-label="Role"><button class="btn" id="cs">Send request</button><p id="cm" role="status"></p></div></section>
 </main>
 
-<footer><p class="stars">★ ★ ★ ★ ★</p><p><a class="ig" href="https://www.instagram.com/spartans_cricketclub" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"></rect><circle cx="12" cy="12" r="4"></circle><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"></circle></svg>Follow @spartans_cricketclub</a></p><p><a class="ig" href="https://cricclubs.com/SandsCricketAssociation/viewTeam.do?teamId=465&amp;clubId=5917" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M7 5.5c2.5 3.8 2.5 9.2 0 13M17 5.5c-2.5 3.8-2.5 9.2 0 13"/></svg>Team profile on CricClubs</a></p><p style="display:flex;gap:20px;justify-content:center;margin:0 0 10px"><a href="#about">About us</a><a href="#contact">Join the squad</a></p>Spartans Cricket Club · Eastvale, California · Sands Cricket Association</footer>
+<footer><p class="stars">★ ★ ★ ★ ★</p><p><a class="ig" href="https://www.instagram.com/spartans_cricketclub" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"></rect><circle cx="12" cy="12" r="4"></circle><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"></circle></svg>Follow @spartans_cricketclub</a></p><p><a class="ig" href="https://cricclubs.com/SandsCricketAssociation/viewTeam.do?teamId=465&amp;clubId=5917" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M7 5.5c2.5 3.8 2.5 9.2 0 13M17 5.5c-2.5 3.8-2.5 9.2 0 13"/></svg>Team profile on CricClubs</a></p><p style="display:flex;gap:20px;justify-content:center;margin:0 0 10px"><a href="#about">About us</a><a href="#contact">Join the squad</a><a href="#privacy">Privacy policy</a></p>Spartans Cricket Club · Eastvale, California · Sands Cricket Association</footer>
 <button id="askBtn" class="askbtn" hidden>Ask the Spartans</button>
 <div id="askPanel" class="askp" hidden role="dialog" aria-label="Ask the Spartans"><div class="askh"><b>Ask the Spartans</b><button id="askX" aria-label="Close">×</button></div><div id="askLog" class="askl" aria-live="polite"><div class="am bot">Ask me about results, fixtures, players or stats. I answer only from this site’s data.</div></div><div class="aske"><div class="asks" id="askSug"></div><input id="askIn" placeholder="e.g. Who’s our top scorer?" aria-label="Your question"><button id="askGo" class="btn" style="margin:0">Ask</button></div></div>
 <dialog id="dg"></dialog>
@@ -283,7 +299,7 @@ news.unshift(...(ST.news||[]).map(n=>n.map(esc)));
 const pad=n=>String(n).padStart(2,'0');
 
 // routing on plain #hash
-const pages=['home','news','tv','team','fixtures','archive','club','sponsors','about','contact'];
+const pages=['home','news','tv','team','fixtures','archive','club','sponsors','about','contact','privacy'];
 function route(){const h=location.hash.slice(1);const p=pages.includes(h)?h:'home';
 document.querySelectorAll('.page').forEach(e=>e.classList.toggle('on',e.id==='p-'+p));
 document.querySelectorAll('nav a,.menu a').forEach(a=>a.classList.toggle('on',a.getAttribute('href')==='#'+p));
