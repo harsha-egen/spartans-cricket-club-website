@@ -29,7 +29,7 @@ FIXTURES:
 - 10/25/2026 1:00 PM, Spartans cc vs Ahir Tigers, Field # 5: Spartans won. Spartans cc 46/1 (5.4 ov) beat Ahir Tigers 45/7 (10 ov) by 9 wickets (Spartans chased)
   Spartans batting (runs and balls): Abhinandan Rissam 29 (20), Kanishk Hari 8 (8), Harsha Gubbi Chandrashekar 6 (6)
   Spartans bowling (overs-runs-wickets): Vivek Desai 1-6-0, Dweep Jhaveri 2-10-1, Mrunal Ketan Patel 2-6-1, Ripal Patel 2-10-2, Praveen Ravishankar 1-4-0, Aarsh Desai 2-9-0
-- 11/01/2026 4:30 PM, Spartans cc vs Fateh cc, Field # 8: No result. Top-two clash washed out: Spartans vs Fateh cc abandoned due to rain
+- 11/01/2026 4:30 PM, Spartans cc vs Fateh cc, Field # 8: No result. Spartans vs Fateh cc abandoned due to rain
 - 11/15/2026 4:30 PM, Knights vs Spartans cc, Field # 5: upcoming
 SQUAD:
 - Aarsh Desai, All Rounder; batting 21 runs in 1 innings, highest 21, strike rate 70.0; bowling 2 wickets in 11.0 overs, economy 5.55
