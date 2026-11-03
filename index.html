@@ -238,7 +238,7 @@ footer .stars{margin:0 0 6px}
 <header><div class="bar">
 <button class="hamb" id="hamb" aria-label="Open menu" aria-expanded="false" aria-controls="drawer"><span></span><span></span><span></span></button><a class="brand" href="#home"><img src="assets/logo.jpg" alt="Spartans logo"><span>Spartans</span></a>
 <nav id="nav" aria-label="Main">
-<a href="#home">Home</a><a href="#news">News</a><a href="#tv">Spartans TV</a><a href="#team">Team</a><a href="#fixtures">Fixtures</a><a href="#archive">Archive</a><a href="#gallery">Gallery</a><a href="#club">Club life</a><a href="#sponsors">Sponsors</a>
+<a href="#home">Home</a><a href="#news">News</a><a href="#tv">Spartans TV</a><a href="#team">Team</a><a href="#fixtures">Fixtures</a><a href="#archive">Archive</a><a href="#gallery">Gallery</a><a href="#club">Club life</a><a href="#sponsors">Sponsors</a><a href="#about">About</a>
 
 </nav>
 <a class="ig" href="https://www.instagram.com/spartans_cricketclub" target="_blank" rel="noopener" aria-label="Spartans on Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"></rect><circle cx="12" cy="12" r="4"></circle><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"></circle></svg></a>
@@ -660,7 +660,7 @@ renderLM();rf();
 // ===== mobile hamburger menu
 (function(){const d=$('#drawer'),bg=$('#drawerBg'),b=$('#hamb');if(!d||!b)return;
 const lg=document.querySelector('.brand img');if(lg)d.querySelector('.dr-logo').innerHTML=`<img src="${lg.getAttribute('src')}" alt="Spartans">`;
-$('#drawerNav').innerHTML=[...document.querySelectorAll('#nav a')].map(a=>`<a href="${a.getAttribute('href')}">${esc(a.textContent)}</a>`).join('')+'<a href="#about">About us</a><a href="#contact">Join the squad</a>';
+$('#drawerNav').innerHTML=[...document.querySelectorAll('#nav a')].map(a=>`<a href="${a.getAttribute('href')}">${esc(a.textContent)}</a>`).join('')+'<a href="#contact">Join the squad</a>';
 const mark=()=>{const h=location.hash||'#home';d.querySelectorAll('#drawerNav a').forEach(a=>a.classList.toggle('on',a.getAttribute('href')===h))};
 const open=()=>{d.classList.add('open');d.removeAttribute('inert');bg.hidden=false;b.setAttribute('aria-expanded','true');document.body.style.overflow='hidden';mark();setTimeout(()=>$('#drX').focus(),60)};
 const close=back=>{d.classList.remove('open');d.setAttribute('inert','');bg.hidden=true;b.setAttribute('aria-expanded','false');document.body.style.overflow='';if(back)b.focus()};
