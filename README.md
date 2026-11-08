@@ -172,7 +172,7 @@ On claude.ai the same chat runs through the visitor's own Claude account instead
 - **Search:** official title, meta description, canonical URL, structured data (`SportsTeam` with home ground Harada Heritage Park and links to Instagram and CricClubs), `sitemap.xml` and `robots.txt`. The domain is registered in Google Search Console.
 - **Sharing:** Open Graph and Twitter card tags with `assets/og-image.jpg`.
 - **Analytics:** Cloudflare Web Analytics (no cookies), loaded with the token in `window.CF_WA_TOKEN`.
-- **Advertising:** Google AdSense (publisher `ca-pub-4797317220367281`). The AdSense script is in the `<head>` of `index.html`, `ads.txt` authorises Google as the seller, and the Privacy policy page (`#privacy`) carries the required advertising-cookie disclosures.
+- **Advertising:** Google AdSense (publisher `ca-pub-3388397184176516`). The AdSense script is in the `<head>` of `index.html`, `ads.txt` authorises Google as the seller, and the Privacy policy page (`#privacy`) carries the required advertising-cookie disclosures.
 
 ---
 
