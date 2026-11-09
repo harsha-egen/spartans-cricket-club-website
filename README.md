@@ -176,6 +176,12 @@ On claude.ai the same chat runs through the visitor's own Claude account instead
 
 ---
 
+## Pre-filled pages (SEO and AdSense)
+
+The site is generated as fully pre-filled HTML so search engines and ad reviewers can read every result, report and stat without running JavaScript. Each main section also has its own address with its own title and description: `/news/`, `/fixtures/`, `/team/`, `/archive/`, `/gallery/`, `/tv/`, `/club/`, `/sponsors/` and `/about/`. Each folder holds an `index.html` that opens on that section; navigation inside the page works the same everywhere. `sitemap.xml` lists all ten addresses.
+
+---
+
 ## Updating the site
 
 1. Make changes on the claude.ai master copy (Edit site: scorecards, results, news, AI insights) or ask Claude.
