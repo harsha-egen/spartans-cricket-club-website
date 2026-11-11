@@ -178,7 +178,9 @@ On claude.ai the same chat runs through the visitor's own Claude account instead
 
 ## Pre-filled pages (SEO and AdSense)
 
-The site is generated as fully pre-filled HTML so search engines and ad reviewers can read every result, report and stat without running JavaScript. Each main section also has its own address with its own title and description: `/news/`, `/fixtures/`, `/team/`, `/archive/`, `/gallery/`, `/tv/`, `/club/`, `/sponsors/` and `/about/`. Each folder holds an `index.html` that opens on that section; navigation inside the page works the same everywhere. `sitemap.xml` lists all ten addresses.
+The site is generated as fully pre-filled HTML so search engines and ad reviewers can read every result, report and stat without running JavaScript. Each main section also has its own address with its own title and description: `/news/`, `/fixtures/`, `/team/`, `/archive/`, `/gallery/`, `/tv/`, `/club/`, `/sponsors/` and `/about/`. Each folder holds an `index.html` that opens on that section; navigation inside the page works the same everywhere. `sitemap.xml` lists every address.
+
+**Feature articles** live at `/news/<slug>/` (for example `/news/title-hat-trick/`). They are standalone pages with their own title, description and Article structured data, linked from the Features block on the home page and the News page, and listed in `sitemap.xml`. The About content appears in full only on `/about/`; other pages open it there.
 
 ---
 
