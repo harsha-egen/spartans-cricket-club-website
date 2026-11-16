@@ -1,5 +1,6 @@
+LEAGUE STANDING (as of 11/16/2026): League stage complete. Spartans are 1st in the EPL Div. 1 (4.0) table. All twelve league games are done: seven wins, three defeats and two washouts. The 7-wicket win over Knights on November 15 did double duty, lifting the Spartans to the top of the EPL Div. 1 (4.0) table and confirming Knights’ relegation to Division 2. The order at the top is not final yet while other teams finish their remaining fixtures. Points table: https://cricclubs.com/SandsCricketAssociation/viewPointsTable.do?clubId=5917
 Club: Spartans Cricket Club (listed on CricClubs as Spartans cc), Sands Cricket Association, EPL Div. 1 (4.0) 2026. Captain: Harsha Gubbi Chandrashekar.
-Season record: 6 won, 3 lost, 2 no result. Batting first 3-2; chasing 3-1. Form, last 5 results oldest first: L NR W W NR.
+Season record: 7 won, 3 lost, 2 no result. Batting first 3-2; chasing 4-1. Form, last 5 results oldest first: NR W W NR W.
 FIXTURES:
 - 07/12/2026 10:00 AM, Rebels cc vs Spartans cc, Field # 5: Spartans lost. Rebels cc 131/3 (18.3 ov) beat Spartans cc 130/7 (20 ov) by 7 wickets (Spartans batted first)
   Spartans batting (runs and balls): Jay Naik 3 (9), Gunjan Patel 0 (1), Pranav Premdas 6 (20), Abhinandan Rissam 66 (57), Kanishk Hari 12 (9), Manoj Moudgalya 0 (0), Nilesh Kulkarni 0 (2), Virinchi Vutukuri 24 (23)
@@ -30,36 +31,38 @@ FIXTURES:
   Spartans batting (runs and balls): Abhinandan Rissam 29 (20), Kanishk Hari 8 (8), Harsha Gubbi Chandrashekar 6 (6)
   Spartans bowling (overs-runs-wickets): Vivek Desai 1-6-0, Dweep Jhaveri 2-10-1, Mrunal Ketan Patel 2-6-1, Ripal Patel 2-10-2, Praveen Ravishankar 1-4-0, Aarsh Desai 2-9-0
 - 11/01/2026 4:30 PM, Spartans cc vs Fateh cc, Field # 8: No result. Spartans vs Fateh cc abandoned due to rain
-- 11/15/2026 4:30 PM, Knights vs Spartans cc, Field # 5: upcoming
+- 11/15/2026 4:30 PM, Knights vs Spartans cc, Field # 5: Spartans won. Spartans cc 97/3 (14.4 ov) beat Knights 96/5 (17 ov) by 7 wickets (Spartans chased)
+  Spartans batting (runs and balls): Jaydev Natavar Chotalia 0 (1), Sameep Kulkarni 7 (13), Abhinandan Rissam 50 (46), Harsha Gubbi Chandrashekar 17 (14), Nilesh Kulkarni 11 (14)
+  Spartans bowling (overs-runs-wickets): Jaydev Natavar Chotalia 4-21-2, Jaynav Parikh 4-22-1, Aarsh Desai 4-22-1, Ripal Patel 4-13-1, Praveen Ravishankar 1-13-0
 SQUAD:
-- Aarsh Desai, All Rounder; batting 21 runs in 1 innings, highest 21, strike rate 70.0; bowling 2 wickets in 11.0 overs, economy 5.55
-- Abhinandan Rissam, All Rounder; batting 114 runs in 4 innings, highest 66, strike rate 120.0; bowling 3 wickets in 5.0 overs, economy 7.60
+- Aarsh Desai, All Rounder; batting 21 runs in 1 innings, highest 21, strike rate 70.0; bowling 3 wickets in 15.0 overs, economy 5.53
+- Abhinandan Rissam, All Rounder; batting 164 runs in 5 innings, highest 66, strike rate 116.3; bowling 3 wickets in 5.0 overs, economy 7.60
 - Anurath Gupta, All Rounder
 - Arkit Ray, Bowler; bowling 0 wickets in 1.0 overs, economy 11.00
 - Chirag Ahir, All Rounder; batting 9 runs in 2 innings, highest 5, strike rate 90.0; bowling 6 wickets in 7.0 overs, economy 6.71
 - Disheen Solanki, All Rounder; bowling 0 wickets in 5.0 overs, economy 10.80
 - Dweep Jhaveri, All Rounder; batting 93 runs in 5 innings, highest 36, strike rate 122.4; bowling 12 wickets in 31.5 overs, economy 3.94
 - Gunjan Patel, All Rounder; batting 88 runs in 7 innings, highest 30, strike rate 102.3
-- Harsha Gubbi Chandrashekar, Wicket Keeper, captain; batting 30 runs in 3 innings, highest 18, strike rate 107.1
+- Harsha Gubbi Chandrashekar, Wicket Keeper, captain; batting 47 runs in 4 innings, highest 18, strike rate 111.9
 - Jash Chhavi Jain, Batter; batting 2 runs in 1 innings, highest 2, strike rate 100.0; bowling 5 wickets in 11.0 overs, economy 4.27
 - Jay Naik, Batter; batting 9 runs in 2 innings, highest 6, strike rate 60.0; bowling 1 wickets in 3.5 overs, economy 8.86
-- Jaydev Natavar Chotalia, All Rounder; batting 202 runs in 6 innings, highest 63, strike rate 156.6; bowling 8 wickets in 6.8 overs, economy 6.59
-- Jaynav Parikh, All Rounder; batting 11 runs in 3 innings, highest 11, strike rate 84.6; bowling 5 wickets in 14.0 overs, economy 7.21
+- Jaydev Natavar Chotalia, All Rounder; batting 202 runs in 7 innings, highest 63, strike rate 155.4; bowling 10 wickets in 10.8 overs, economy 6.09
+- Jaynav Parikh, All Rounder; batting 11 runs in 3 innings, highest 11, strike rate 84.6; bowling 6 wickets in 18.0 overs, economy 6.83
 - Jignesh Patel, Batter; batting 8 runs in 3 innings, highest 8, strike rate 100.0; bowling 0 wickets in 4.0 overs, economy 8.25
 - Kanishk Hari, All Rounder; batting 107 runs in 7 innings, highest 37, strike rate 124.4; bowling 1 wickets in 1.0 overs, economy 16.00
 - Madhav Chauhan, Batter
 - Manoj Moudgalya, All Rounder; batting 1 runs in 2 innings, highest 1, strike rate 20.0; bowling 1 wickets in 13.0 overs, economy 5.54
 - Mehul Dave, All Rounder; batting 5 runs in 1 innings, highest 5, strike rate 100.0; bowling 0 wickets in 3.0 overs, economy 9.00
 - Mrunal Ketan Patel, All Rounder; batting 99 runs in 3 innings, highest 51, strike rate 133.8; bowling 4 wickets in 12.0 overs, economy 5.42
-- Nilesh Kulkarni, All Rounder; batting 41 runs in 4 innings, highest 21, strike rate 73.2; bowling 1 wickets in 7.0 overs, economy 7.14
+- Nilesh Kulkarni, All Rounder; batting 52 runs in 5 innings, highest 21, strike rate 74.3; bowling 1 wickets in 7.0 overs, economy 7.14
 - Nisarg Patel, Batter
 - Pranav Premdas, Batter; batting 13 runs in 2 innings, highest 7, strike rate 44.8; bowling 0 wickets in 1.0 overs, economy 18.00
-- Praveen Ravishankar, All Rounder; batting 14 runs in 2 innings, highest 10, strike rate 155.6; bowling 1 wickets in 7.0 overs, economy 6.71
+- Praveen Ravishankar, All Rounder; batting 14 runs in 2 innings, highest 10, strike rate 155.6; bowling 1 wickets in 8.0 overs, economy 7.50
 - Ravi Timbawala, All Rounder; batting 7 runs in 1 innings, highest 7, strike rate 140.0; bowling 0 wickets in 2.0 overs, economy 5.50
-- Ripal Patel, All Rounder; bowling 6 wickets in 9.0 overs, economy 5.22
+- Ripal Patel, All Rounder; bowling 7 wickets in 13.0 overs, economy 4.62
 - Rithvik Gumidelli, Batter
 - Sahib Abichandani, All Rounder
-- Sameep Kulkarni, Batter; batting 102 runs in 4 innings, highest 40, strike rate 136.0
+- Sameep Kulkarni, Batter; batting 109 runs in 5 innings, highest 40, strike rate 123.9
 - Sanath Tripura Kesha…, Batter
 - Suraj Patel, All Rounder
 - Vaibhav Oberoi, All Rounder
@@ -115,11 +118,11 @@ ARCHIVE SEASON EPL – Div 1 (1.0) [2024–25] (EPL Div. 1-2-3 (1.0), Jan–Jun 
 HOME GROUND: Harada Heritage Park, 13099 65th St, Corona, CA 92880 (Eastvale, California). TITLE HAT-TRICK: EPL – Div 1 (1.0) [2024–25], EPL – Div 1 (2.0) [2025] and EPL – Div 1 (3.0) [2025–26] won in a row.
 HONOURS (East Vale Premier League, Sands Cricket Association): 5 championships (Summer League 2022, Winter League 2022–23, EPL – Div 1 (1.0) [2024–25], EPL – Div 1 (2.0) [2025], EPL – Div 1 (3.0) [2025–26]); league table toppers 4 times; runners-up once.
 CAPTAIN: Harsha Gubbi Chandrashekar (wicket keeper) has captained the Spartans since 2022 and has led the club to all five of its championships, from the Summer League 2022 title to the EPL – Div 1 hat-trick. He is known as an inspirational and motivational leader: calm under pressure, demanding high standards and first to celebrate his teammates.
-IN FORM RIGHT NOW (current season, runs in the last 3 matches with scorecards): Jaydev Natavar Chotalia 90 runs; Sameep Kulkarni 40 runs; Dweep Jhaveri 36 runs. MOST ECONOMICAL BOWLERS (6+ overs): Dweep Jhaveri 3.94 runs per over, 12 wickets; Jash Chhavi Jain 4.27 runs per over, 5 wickets; Ripal Patel 5.22 runs per over, 6 wickets.
+IN FORM RIGHT NOW (current season, runs in the last 3 matches with scorecards): Abhinandan Rissam 79 runs; Jaydev Natavar Chotalia 63 runs; Sameep Kulkarni 47 runs. MOST ECONOMICAL BOWLERS (6+ overs): Dweep Jhaveri 3.94 runs per over, 12 wickets; Jash Chhavi Jain 4.27 runs per over, 5 wickets; Ripal Patel 4.62 runs per over, 7 wickets.
 TITLE TIMELINE (oldest first): 1st title, and the Spartans first-ever championship: Summer League 2022. 2nd: Winter League 2022–23, making it back-to-back titles. 3rd: EPL – Div 1 (1.0) [2024–25], final won on Jun 15, 2025 against La kings, the start of the title hat-trick. 4th: EPL – Div 1 (2.0) [2025], final won on Dec 7, 2025 against California Rhinos. 5th: EPL – Div 1 (3.0) [2025–26], final won on Jun 7, 2026 against Silverbacks cc, completing the hat-trick. The league was renamed from Summer/Winter League to EPL – Div 1 from 2024–25.
 GALLERY PHOTOS (on-field): Champions, together: the squad with the full trophy haul [EPL – Div 1 (3.0) [2025–26]]; The cup presentation [EPL – Div 1 (3.0) [2025–26]]; Three Spartans, one cup [EPL – Div 1 (3.0) [2025–26]]; Cup in hand: captain Harsha with the championship cup [EPL – Div 1 (3.0) [2025–26]]; Champions of the EPL – Div 1 (2.0) [2025] [EPL – Div 1 (2.0) [2025]]; Where the hat-trick began: EPL – Div 1 (1.0) [2024–25] champions, with the full trophy haul [EPL – Div 1 (1.0) [2024–25]]; Back-to-back champions: one title was never going to be enough. Winter League 2022–23 [Winter League 2022–23]; Where it all began: the Spartans’ first championship, Summer League 2022 [Summer League 2022].
 CLUB LIFE PHOTOS (off-field): The cup takes the head of the table: champions’ feast at Pista House [Celebrations]; Spartans team party [Team parties]; Fresh off the field, MasterChef Mrunal fires up the grill: post-match barbecue chicken, served hot [Barbecues]; Sunset, sizzling grill and the big game: Super Bowl night at Mehul’s, Spartans style [Team parties].
 JOINING THE CLUB: anyone who wants to play for the Spartans can use the "Join the squad" page on this website (www.spartanscricketclub.us/#contact) or email join@spartanscricketclub.us with their name, email and role (batter, bowler, all-rounder or wicket keeper). The club replies and invites new players to its next session or trial.
-HEAD TO HEAD SINCE 2025 (all seasons on the site combined): Silverbacks cc: played 6, won 5, lost 0, no result 1; corona lions: played 5, won 3, lost 2; Fateh cc: played 5, won 3, lost 1, no result 1; Kings cc: played 4, won 1, lost 2, no result 1; Rebels cc: played 4, won 2, lost 1, no result 1; La kings: played 4, won 4, lost 0; Ahir Tigers: played 3, won 1, lost 2; Knights (also listed as Oc Knights): played 3, won 2, lost 1; California Rhinos: played 3, won 2, lost 1; Warriors: played 2, won 2, lost 0; OC Fighters: played 2, won 2, lost 0; La Zalmi: played 2, won 2, lost 0; Avians: played 1, won 1, lost 0; Shaheen cc: played 1, won 0, lost 1; Cali Strikers: played 1, won 1, lost 0; Mavericks: played 1, won 1, lost 0; La United: played 1, won 1, lost 0; CCL Stars: played 1, won 1, lost 0; Zen`s cc: played 1, won 1, lost 0; Boltz c.c.: played 1, won 1, lost 0; Rams: played 1, won 0, lost 1; La Jaguars: played 1, won 1, lost 0.
+HEAD TO HEAD SINCE 2025 (all seasons on the site combined): Silverbacks cc: played 6, won 5, lost 0, no result 1; corona lions: played 5, won 3, lost 2; Fateh cc: played 5, won 3, lost 1, no result 1; Kings cc: played 4, won 1, lost 2, no result 1; Rebels cc: played 4, won 2, lost 1, no result 1; La kings: played 4, won 4, lost 0; Knights (also listed as Oc Knights): played 4, won 3, lost 1; Ahir Tigers: played 3, won 1, lost 2; California Rhinos: played 3, won 2, lost 1; Warriors: played 2, won 2, lost 0; OC Fighters: played 2, won 2, lost 0; La Zalmi: played 2, won 2, lost 0; Avians: played 1, won 1, lost 0; Shaheen cc: played 1, won 0, lost 1; Cali Strikers: played 1, won 1, lost 0; Mavericks: played 1, won 1, lost 0; La United: played 1, won 1, lost 0; CCL Stars: played 1, won 1, lost 0; Zen`s cc: played 1, won 1, lost 0; Boltz c.c.: played 1, won 1, lost 0; Rams: played 1, won 0, lost 1; La Jaguars: played 1, won 1, lost 0.
 BIGGEST WINS SINCE 2025: by runs: 92 runs vs Avians on 04/19/2026 (EPL – Div 1 (3.0) [2025–26]); 90 runs vs La United on 04/13/2025 (EPL – Div 1 (1.0) [2024–25]); 82 runs vs Mavericks on 08/17/2025 (EPL – Div 1 (2.0) [2025]). Ten-wicket wins: vs Silverbacks cc on 06/07/2026 (EPL – Div 1 (3.0) [2025–26]); vs corona lions on 05/17/2026 (EPL – Div 1 (3.0) [2025–26]); vs Fateh cc on 11/30/2025 (EPL – Div 1 (2.0) [2025]).
 SPONSORS: Nick the Greek (Souvlaki & Gyro House); SK Tax (Tax and accounting); Philly’s Best Cheesesteaks (3434 Arlington Ave Ste 20, Riverside, CA 92506); Pista House (13394 Limonite Ave #170, Eastvale, CA 92880); Sanjay Boniface Real Estate (Call or text 714-699-4519 · sanjay@sanjaytherealtor.com). Instagram: @spartans_cricketclub. CricClubs team profile: https://cricclubs.com/SandsCricketAssociation/viewTeam.do?teamId=465&clubId=5917.
